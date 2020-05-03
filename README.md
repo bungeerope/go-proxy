@@ -1,7 +1,7 @@
 # 内网穿透小工具
 
 ## 1.架构图
-![架构图](src/go-proxy.png)
+![](src/go-proxy.png)
 
 ## 2.目录结构
 ```shell script
