@@ -12,7 +12,7 @@ var (
 )
 
 func init() {
-	flag.IntVar(&localPort, "l", 8081, "local port")
+	flag.IntVar(&localPort, "p", 8081, "local port")
 	flag.IntVar(&remotePort, "r", 3333, "remote port")
 }
 
